@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from turtle_controller/msg/RobotStatus.msg
+// generated code does not contain a copyright notice
+
+#include "turtle_controller/msg/DirectionalDistance.idl"
+
+module turtle_controller {
+  module msg {
+    struct RobotStatus {
+      boolean moving;
+
+      float linear_velocity;
+
+      float angular_velocity;
+
+      float linear_distance;
+
+      float orientation;
+
+      turtle_controller::msg::DirectionalDistance obstacle_distance;
+    };
+  };
+};

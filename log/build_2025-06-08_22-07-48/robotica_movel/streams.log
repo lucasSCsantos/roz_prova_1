@@ -1,0 +1,31 @@
+[0.097s] Invoking command in '/home/aula-robotica/ros_ws/build/robotica_movel': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aula-robotica/ros_ws/build/robotica_movel -- -j4 -l4
+[0.227s] [35m[1mConsolidate compiler generated dependencies of target robotica_movel[0m
+[0.245s] [100%] Built target robotica_movel
+[0.320s] Invoked command in '/home/aula-robotica/ros_ws/build/robotica_movel' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aula-robotica/ros_ws/build/robotica_movel -- -j4 -l4
+[0.320s] Invoking command in '/home/aula-robotica/ros_ws/build/robotica_movel': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aula-robotica/ros_ws/build/robotica_movel
+[0.349s] -- Install configuration: ""
+[0.349s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/lib/robotica_movel/robotica_movel
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/launch
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/launch/slam_andino_launch.py
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/launch/av3_nav_victor_launch.py
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/launch/scape_square_andino_launch.py
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/launch/nav_andino_launch.py
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/launch/keyboard_square_andino_launch.py
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/launch/robotica_movel_launch.py
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/launch/av3_slam_victor_launch.py
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/ament_index/resource_index/package_run_dependencies/robotica_movel
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/ament_index/resource_index/parent_prefix_path/robotica_movel
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/environment/ament_prefix_path.sh
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/environment/ament_prefix_path.dsv
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/environment/path.sh
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/environment/path.dsv
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/local_setup.bash
+[0.350s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/local_setup.sh
+[0.372s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/local_setup.zsh
+[0.373s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/local_setup.dsv
+[0.373s] -- Installing: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/package.dsv
+[0.373s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/ament_index/resource_index/packages/robotica_movel
+[0.373s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/cmake/robotica_movelConfig.cmake
+[0.373s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/cmake/robotica_movelConfig-version.cmake
+[0.373s] -- Up-to-date: /home/aula-robotica/ros_ws/install/robotica_movel/share/robotica_movel/package.xml
+[0.417s] Invoked command in '/home/aula-robotica/ros_ws/build/robotica_movel' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aula-robotica/ros_ws/build/robotica_movel

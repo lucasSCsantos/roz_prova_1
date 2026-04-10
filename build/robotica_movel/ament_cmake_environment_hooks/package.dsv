@@ -1,0 +1,4 @@
+source;share/robotica_movel/local_setup.bash
+source;share/robotica_movel/local_setup.dsv
+source;share/robotica_movel/local_setup.sh
+source;share/robotica_movel/local_setup.zsh

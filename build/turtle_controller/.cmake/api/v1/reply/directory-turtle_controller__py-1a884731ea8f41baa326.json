@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "turtle_controller__py",
+		"source" : "/home/aula-robotica/ros_ws/build/turtle_controller/turtle_controller__py"
+	}
+}

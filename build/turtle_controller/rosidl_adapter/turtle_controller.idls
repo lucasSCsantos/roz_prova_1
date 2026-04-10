@@ -1,0 +1,3 @@
+/home/aula-robotica/ros_ws/build/turtle_controller/rosidl_adapter/turtle_controller:msg/RobotStatus.idl
+/home/aula-robotica/ros_ws/build/turtle_controller/rosidl_adapter/turtle_controller:msg/RobotCmd.idl
+/home/aula-robotica/ros_ws/build/turtle_controller/rosidl_adapter/turtle_controller:msg/DirectionalDistance.idl

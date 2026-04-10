@@ -1,0 +1,63 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/aula-robotica/ros_ws/build/andino_firmware
+-- Install configuration: ""
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/andino_firmware.ino
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/platformio.ini
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/interrupt_in.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/hw.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/motor.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/app.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/interrupt_in_arduino.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/shell.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/digital_in.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/app.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/interrupt_in_arduino.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/digital_out.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/encoder.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/commands.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/digital_out_arduino.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/pwm_out_arduino.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/serial_stream.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/constants.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/encoder.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/motor.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/digital_out_arduino.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/serial_stream_arduino.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/pwm_out_arduino.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/main.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/serial_stream_arduino.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/shell.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/pid.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/pwm_out.h
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware//src/pid.cpp
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/ament_index/resource_index/package_run_dependencies/andino_firmware
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/ament_index/resource_index/parent_prefix_path/andino_firmware
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/environment/ament_prefix_path.sh
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/environment/ament_prefix_path.dsv
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/environment/path.sh
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/environment/path.dsv
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/local_setup.bash
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/local_setup.sh
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/local_setup.zsh
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/local_setup.dsv
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/package.dsv
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/ament_index/resource_index/packages/andino_firmware
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/cmake/andino_firmwareConfig.cmake
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/cmake/andino_firmwareConfig-version.cmake
+-- Installing: /home/aula-robotica/ros_ws/install/andino_firmware/share/andino_firmware/package.xml

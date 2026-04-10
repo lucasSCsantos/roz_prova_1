@@ -1,0 +1,9 @@
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/uninstall.dir
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/andino_slam_uninstall.dir
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/test.dir
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/edit_cache.dir
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/rebuild_cache.dir
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/list_install_components.dir
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/install.dir
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/install/local.dir
+/home/aula-robotica/ros_ws/build/andino_slam/CMakeFiles/install/strip.dir

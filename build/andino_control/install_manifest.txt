@@ -1,0 +1,17 @@
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control//config/andino_controllers.yaml
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control//launch/andino_control.launch.py
+/home/aula-robotica/ros_ws/install/andino_control/share/ament_index/resource_index/package_run_dependencies/andino_control
+/home/aula-robotica/ros_ws/install/andino_control/share/ament_index/resource_index/parent_prefix_path/andino_control
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/environment/ament_prefix_path.sh
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/environment/ament_prefix_path.dsv
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/environment/path.sh
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/environment/path.dsv
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/local_setup.bash
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/local_setup.sh
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/local_setup.zsh
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/local_setup.dsv
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/package.dsv
+/home/aula-robotica/ros_ws/install/andino_control/share/ament_index/resource_index/packages/andino_control
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/cmake/andino_controlConfig.cmake
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/cmake/andino_controlConfig-version.cmake
+/home/aula-robotica/ros_ws/install/andino_control/share/andino_control/package.xml

@@ -1,0 +1,326 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-734c07a17c0db1bdccfa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						6,
+						7,
+						8,
+						9,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				},
+				{
+					"build" : "turtle_controller__py",
+					"jsonFile" : "directory-turtle_controller__py-1a884731ea8f41baa326.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/aula-robotica/ros_ws/build/turtle_controller/turtle_controller__py",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "gtest",
+					"jsonFile" : "directory-gtest-a2408fe1a73b92c5e636.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/opt/ros/humble/src/gtest_vendor",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "turtle_controller",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gtest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_turtle_controller_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_turtle_controller_egg-bd108f5cfb32c6d56a28.json",
+					"name" : "ament_cmake_python_build_turtle_controller_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_turtle_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_turtle_controller-1928e90546954b54daf3.json",
+					"name" : "ament_cmake_python_copy_turtle_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "controller_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-controller_server-b0b31583f1997ce6f5f4.json",
+					"name" : "controller_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "controller_server_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-controller_server_lib-39ee5141e8a73d76959d.json",
+					"name" : "controller_server_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest-3c88ab127df3d3a02e73.json",
+					"name" : "gtest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest_main::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest_main-5f4d221df5a467b4d44b.json",
+					"name" : "gtest_main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "keyboard_parser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-keyboard_parser-d08d53d090074e9ec690.json",
+					"name" : "keyboard_parser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "keyboard_parser_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-keyboard_parser_lib-8ac3a0aac1ffd42e771c.json",
+					"name" : "keyboard_parser_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller-fee246c32cf03c080836.json",
+					"name" : "turtle_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__cpp-c9c79c888fec175cb7af.json",
+					"name" : "turtle_controller__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "turtle_controller__py::@f291acaf77ac16ab47bb",
+					"jsonFile" : "target-turtle_controller__py-e59cbfe0a045e42ab702.json",
+					"name" : "turtle_controller__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_generator_c-2c0ce0c9af5023dddf78.json",
+					"name" : "turtle_controller__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_generator_py-07a7e8e3260da406ff14.json",
+					"name" : "turtle_controller__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_c-c37d02e9cf633d21a70f.json",
+					"name" : "turtle_controller__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_c__pyext-86f5c09c83aae152a38a.json",
+					"name" : "turtle_controller__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_cpp-aa8374aab25664a1838c.json",
+					"name" : "turtle_controller__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_fastrtps_c-1cf7748b58373844d8b2.json",
+					"name" : "turtle_controller__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_fastrtps_c__pyext-8e858a912c0e53710a2e.json",
+					"name" : "turtle_controller__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_fastrtps_cpp-969b98d77fe6d571bd0b.json",
+					"name" : "turtle_controller__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_introspection_c-e76a244cdcc93df66c18.json",
+					"name" : "turtle_controller__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_introspection_c__pyext-bd9d42007f06151ca050.json",
+					"name" : "turtle_controller__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller__rosidl_typesupport_introspection_cpp-3919ce0f4bb414e15a26.json",
+					"name" : "turtle_controller__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller_test-d1cc4634129264179407.json",
+					"name" : "turtle_controller_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_controller_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_controller_uninstall-43c7bff3cbabf1ae964a.json",
+					"name" : "turtle_controller_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-da0d2410445c613c392d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/aula-robotica/ros_ws/build/turtle_controller",
+		"source" : "/home/aula-robotica/ros_ws/src/turtle_controller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

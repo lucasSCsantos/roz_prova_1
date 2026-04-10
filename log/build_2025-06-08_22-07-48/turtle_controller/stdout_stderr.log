@@ -1,0 +1,222 @@
+[35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_generator_c[0m
+[  3%] Built target gtest_main
+[  4%] Built target turtle_controller__cpp
+[ 12%] Built target turtle_controller__rosidl_generator_c
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[ 12%] Built target ament_cmake_python_copy_turtle_controller
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_fastrtps_cpp[0m
+[ 20%] Built target turtle_controller__rosidl_typesupport_cpp
+[ 24%] Built target gtest
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_introspection_c[0m
+[ 32%] Built target turtle_controller__rosidl_typesupport_fastrtps_cpp
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_c[0m
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_introspection_cpp[0m
+[ 40%] Built target turtle_controller__rosidl_typesupport_introspection_cpp
+[ 48%] Built target turtle_controller__rosidl_typesupport_introspection_c
+[ 56%] Built target turtle_controller__rosidl_typesupport_c
+[35m[1mConsolidate compiler generated dependencies of target controller_server_lib[0m
+[35m[1mConsolidate compiler generated dependencies of target keyboard_parser_lib[0m
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_fastrtps_c[0m
+[ 59%] Built target keyboard_parser_lib
+[ 62%] Built target controller_server_lib
+[ 70%] Built target turtle_controller__rosidl_typesupport_fastrtps_c
+[35m[1mConsolidate compiler generated dependencies of target controller_server[0m
+[35m[1mConsolidate compiler generated dependencies of target keyboard_parser[0m
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller_test[0m
+[ 74%] Built target keyboard_parser
+[ 77%] Built target controller_server
+[ 82%] Built target turtle_controller_test
+[ 82%] Built target turtle_controller
+[ 83%] Built target turtle_controller__py
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_generator_py[0m
+running egg_info
+writing turtle_controller.egg-info/PKG-INFO
+writing dependency_links to turtle_controller.egg-info/dependency_links.txt
+writing top-level names to turtle_controller.egg-info/top_level.txt
+reading manifest file 'turtle_controller.egg-info/SOURCES.txt'
+writing manifest file 'turtle_controller.egg-info/SOURCES.txt'
+[ 90%] Built target turtle_controller__rosidl_generator_py
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_fastrtps_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_c__pyext[0m
+[ 90%] Built target ament_cmake_python_build_turtle_controller_egg
+[35m[1mConsolidate compiler generated dependencies of target turtle_controller__rosidl_typesupport_introspection_c__pyext[0m
+[ 93%] Built target turtle_controller__rosidl_typesupport_fastrtps_c__pyext
+[ 96%] Built target turtle_controller__rosidl_typesupport_introspection_c__pyext
+[100%] Built target turtle_controller__rosidl_typesupport_c__pyext
+-- Install configuration: ""
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/ament_index/resource_index/rosidl_interfaces/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/directional_distance.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/robot_cmd.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__struct.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__type_support.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__type_support.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__struct.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__struct.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__functions.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__functions.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__type_support.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__functions.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__functions.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__functions.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__functions.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/rosidl_generator_c__visibility_control.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/robot_status.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/environment/library_path.sh
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/environment/library_path.dsv
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libturtle_controller__rosidl_generator_c.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libturtle_controller__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/directional_distance.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__struct.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__type_support.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__builder.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__type_support.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__struct.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__struct.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__traits.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__traits.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__type_support.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__traits.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__builder.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__builder.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/robot_status.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/robot_cmd.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/dds_fastrtps
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libturtle_controller__rosidl_typesupport_fastrtps_cpp.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__type_support.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__type_support.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__type_support.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libturtle_controller__rosidl_typesupport_introspection_c.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libturtle_controller__rosidl_typesupport_c.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__type_support.cpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__type_support.cpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_cmd__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/directional_distance__type_support.cpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/turtle_controller/msg/detail/robot_status__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libturtle_controller__rosidl_typesupport_introspection_cpp.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libturtle_controller__rosidl_typesupport_cpp.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/environment/pythonpath.sh
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/environment/pythonpath.dsv
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller-0.0.0-py3.10.egg-info
+-- Installing: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller-0.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/_turtle_controller_s.ep.rosidl_typesupport_c.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/_turtle_controller_s.ep.rosidl_typesupport_introspection_c.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/__init__.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/turtle_controller_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/turtle_controller_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/libturtle_controller__rosidl_generator_py.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg/_robot_status_s.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg/_robot_cmd_s.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg/_directional_distance_s.c
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg/_robot_cmd.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg/__init__.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg/_directional_distance.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg/_robot_status.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/turtle_controller_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/_turtle_controller_s.ep.rosidl_typesupport_fastrtps_c.c
+Listing '/home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller'...
+Listing '/home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/msg'...
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/turtle_controller_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/turtle_controller_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/local/lib/python3.10/dist-packages/turtle_controller/turtle_controller_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libturtle_controller__rosidl_generator_py.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/msg/RobotStatus.idl
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/msg/RobotCmd.idl
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/msg/DirectionalDistance.idl
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/msg/RobotStatus.msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/msg/RobotCmd.msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/msg/DirectionalDistance.msg
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/controller_server.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/include/turtle_controller/keyboard_parser.hpp
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/turtle_controller/controller_server
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/turtle_controller/keyboard_parser
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libcontroller_server_lib.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/libkeyboard_parser_lib.so
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/turtle_controller/controller_base.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/turtle_controller/controller_scape.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller//launch
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller//launch/keyboard_control_launch.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller//launch/square_scape_launch.py
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller//worlds
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller//worlds/square_pass.world
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/lib/turtle_controller/turtle_controller_test
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/ament_index/resource_index/package_run_dependencies/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/ament_index/resource_index/parent_prefix_path/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/environment/ament_prefix_path.sh
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/environment/path.sh
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/environment/path.dsv
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/local_setup.bash
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/local_setup.sh
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/local_setup.zsh
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/local_setup.dsv
+-- Installing: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/package.dsv
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/ament_index/resource_index/packages/turtle_controller
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_typesupport_fastrtps_cExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controller__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controller__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controller__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controller__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controller__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controller__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controller__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controller__rosidl_typesupport_cppExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_generator_pyExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_turtle_controller__rosidl_generator_pyExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_targetsExport.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/export_targetsExport-noconfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/rosidl_cmake-extras.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controllerConfig.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/cmake/turtle_controllerConfig-version.cmake
+-- Up-to-date: /home/aula-robotica/ros_ws/install/turtle_controller/share/turtle_controller/package.xml

@@ -1,0 +1,8 @@
+{
+  "package_name": "turtle_controller",
+  "non_idl_tuples": [
+    "/home/aula-robotica/ros_ws/src/turtle_controller:msg/RobotStatus.msg",
+    "/home/aula-robotica/ros_ws/src/turtle_controller:msg/RobotCmd.msg",
+    "/home/aula-robotica/ros_ws/src/turtle_controller:msg/DirectionalDistance.msg"
+  ]
+}
