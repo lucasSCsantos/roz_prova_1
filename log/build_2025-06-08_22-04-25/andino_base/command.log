@@ -1,6 +1,0 @@
-Invoking command in '/home/aula-robotica/ros_ws/build/andino_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aula-robotica/ros_ws/src/andino/andino_base -DCMAKE_INSTALL_PREFIX=/home/aula-robotica/ros_ws/install/andino_base
-Invoked command in '/home/aula-robotica/ros_ws/build/andino_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aula-robotica/ros_ws/src/andino/andino_base -DCMAKE_INSTALL_PREFIX=/home/aula-robotica/ros_ws/install/andino_base
-Invoking command in '/home/aula-robotica/ros_ws/build/andino_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aula-robotica/ros_ws/build/andino_base -- -j4 -l4
-Invoked command in '/home/aula-robotica/ros_ws/build/andino_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aula-robotica/ros_ws/build/andino_base -- -j4 -l4
-Invoking command in '/home/aula-robotica/ros_ws/build/andino_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aula-robotica/ros_ws/build/andino_base
-Invoked command in '/home/aula-robotica/ros_ws/build/andino_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aula-robotica/ros_ws/build/andino_base

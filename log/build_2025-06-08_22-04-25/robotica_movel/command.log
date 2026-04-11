@@ -1,6 +1,0 @@
-Invoking command in '/home/aula-robotica/ros_ws/build/robotica_movel': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aula-robotica/ros_ws/src/robotica_movel -DCMAKE_INSTALL_PREFIX=/home/aula-robotica/ros_ws/install/robotica_movel
-Invoked command in '/home/aula-robotica/ros_ws/build/robotica_movel' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aula-robotica/ros_ws/src/robotica_movel -DCMAKE_INSTALL_PREFIX=/home/aula-robotica/ros_ws/install/robotica_movel
-Invoking command in '/home/aula-robotica/ros_ws/build/robotica_movel': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aula-robotica/ros_ws/build/robotica_movel -- -j4 -l4
-Invoked command in '/home/aula-robotica/ros_ws/build/robotica_movel' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aula-robotica/ros_ws/build/robotica_movel -- -j4 -l4
-Invoking command in '/home/aula-robotica/ros_ws/build/robotica_movel': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aula-robotica/ros_ws/build/robotica_movel
-Invoked command in '/home/aula-robotica/ros_ws/build/robotica_movel' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aula-robotica/ros_ws/build/robotica_movel

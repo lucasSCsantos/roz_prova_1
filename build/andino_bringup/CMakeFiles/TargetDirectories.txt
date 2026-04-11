@@ -1,9 +1,0 @@
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/uninstall.dir
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/andino_bringup_uninstall.dir
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/test.dir
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/edit_cache.dir
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/rebuild_cache.dir
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/list_install_components.dir
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/install.dir
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/install/local.dir
-/home/aula-robotica/ros_ws/build/andino_bringup/CMakeFiles/install/strip.dir

@@ -1,4 +1,0 @@
-Invoking command in '/home/aula-robotica/ros_ws/build/andino_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aula-robotica/ros_ws/build/andino_navigation -- -j4 -l4
-Invoked command in '/home/aula-robotica/ros_ws/build/andino_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aula-robotica/ros_ws/build/andino_navigation -- -j4 -l4
-Invoking command in '/home/aula-robotica/ros_ws/build/andino_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aula-robotica/ros_ws/build/andino_navigation
-Invoked command in '/home/aula-robotica/ros_ws/build/andino_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aula-robotica/ros_ws/build/andino_navigation

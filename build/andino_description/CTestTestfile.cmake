@@ -1,8 +1,0 @@
-# CMake generated Testfile for 
-# Source directory: /home/aula-robotica/ros_ws/src/andino/andino_description
-# Build directory: /home/aula-robotica/ros_ws/build/andino_description
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-add_test(test_xacro_processing "/usr/bin/python3" "-u" "/opt/ros/humble/share/ament_cmake_test/cmake/run_test.py" "/home/aula-robotica/ros_ws/build/andino_description/test_results/andino_description/test_xacro_processing.xunit.xml" "--package-name" "andino_description" "--output-file" "/home/aula-robotica/ros_ws/build/andino_description/ament_cmake_pytest/test_xacro_processing.txt" "--append-env" "PYTHONPATH=/home/aula-robotica/ros_ws/build/andino_description" "--command" "/usr/bin/python3" "-u" "-m" "pytest" "/home/aula-robotica/ros_ws/src/andino/andino_description/test/test_xacro_processing.py" "-o" "cache_dir=/home/aula-robotica/ros_ws/build/andino_description/ament_cmake_pytest/test_xacro_processing/.cache" "--junit-xml=/home/aula-robotica/ros_ws/build/andino_description/test_results/andino_description/test_xacro_processing.xunit.xml" "--junit-prefix=andino_description")
-set_tests_properties(test_xacro_processing PROPERTIES  LABELS "pytest" TIMEOUT "60" WORKING_DIRECTORY "/home/aula-robotica/ros_ws/src/andino/andino_description" _BACKTRACE_TRIPLES "/opt/ros/humble/share/ament_cmake_test/cmake/ament_add_test.cmake;125;add_test;/opt/ros/humble/share/ament_cmake_pytest/cmake/ament_add_pytest_test.cmake;169;ament_add_test;/home/aula-robotica/ros_ws/src/andino/andino_description/CMakeLists.txt;25;ament_add_pytest_test;/home/aula-robotica/ros_ws/src/andino/andino_description/CMakeLists.txt;0;")

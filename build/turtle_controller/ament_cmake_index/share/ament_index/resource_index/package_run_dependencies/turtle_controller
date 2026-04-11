@@ -1,1 +1,0 @@
-sensor_msgs;rclcpp;std_msgs;keyboard_msgs;geometry_msgs;nav_msgs;turtlesim;tf2;rosidl_default_runtime;rclpy;python3;rosidl_typesupport_cpp;ament_lint_auto;ament_lint_common
