@@ -1,4 +1,8 @@
-/home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/my_robot_description/urdf/my_robot.urdf
+/home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/my_robot_description/urdf/mobile_base.xacro
+/home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/my_robot_description/urdf/my_robot.urdf.xacro
+/home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/my_robot_description/urdf/lidar.xacro
+/home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/my_robot_description/urdf/mobile_base_gazebo.xacro
+/home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/my_robot_description/urdf/common_properties.xacro
 /home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/my_robot_description/launch/display.launch.xml
 /home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/my_robot_description/rviz/urdf_config.rviz
 /home/lucas/Projetos/faculdade/roz_prova_1/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
